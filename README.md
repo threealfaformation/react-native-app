@@ -48,7 +48,7 @@ Le sprint est organisé en **étapes progressives** à compléter dans l’ordre
 
 ---
 
-## 🧩 Étape 3 : Gestion des Posts
+##  Étape 3 : Gestion des Posts
 
 | # | Objectif                                | Action à réaliser                                                                                |
 | - | --------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -60,7 +60,7 @@ Le sprint est organisé en **étapes progressives** à compléter dans l’ordre
 
 ---
 
-## 🧩 Étape 4 : Profil utilisateur
+##  Étape 4 : Profil utilisateur
 
 | # | Objectif                        | Action à réaliser                                                      |
 | - | ------------------------------- | ---------------------------------------------------------------------- |
